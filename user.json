@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Felix",
+                "last": "Guerrero"
+            },
+            "location": {
+                "street": {
+                    "number": 3971,
+                    "name": "Ronda de Toledo"
+                },
+                "city": "Torrente",
+                "state": "La Rioja",
+                "country": "Spain",
+                "postcode": 57501,
+                "coordinates": {
+                    "latitude": "-22.0195",
+                    "longitude": "-38.8266"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "felix.guerrero@example.com",
+            "login": {
+                "uuid": "55b6fec8-6e82-4274-8718-aba917c1ecb2",
+                "username": "beautifulleopard715",
+                "password": "history",
+                "salt": "y5FlhBps",
+                "md5": "0c7518036a97aff423442333eb5d595d",
+                "sha1": "3cf0d76c00a687a464bde85219ea858f4de75030",
+                "sha256": "129f90a337e3da1b6e07f1eddca087c5b4b5fdadac3dcbc1b330c9018b259ed2"
+            },
+            "dob": {
+                "date": "1983-10-20T14:12:32.177Z",
+                "age": 37
+            },
+            "registered": {
+                "date": "2013-12-18T01:30:09.611Z",
+                "age": 7
+            },
+            "phone": "914-718-771",
+            "cell": "695-707-181",
+            "id": {
+                "name": "DNI",
+                "value": "10231727-O"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+            },
+            "nat": "ES"
+        }
+    ],
+    "info": {
+        "seed": "2499ee6173e28b71",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
